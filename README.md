@@ -22,7 +22,7 @@ I bridge product vision, project delivery, and software engineering to turn comp
             <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"   alt="oracle"/>  
             <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"/>
             <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="google cloud"/>
-          <h2>💻 GitHub Profile Stats</h2>
+    <br/>      <h2>💻 GitHub Profile Stats</h2>
 
 <p>
   <img
