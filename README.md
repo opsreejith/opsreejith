@@ -9,8 +9,9 @@ I bridge product vision, project delivery, and software engineering to turn comp
 🤝 I work closely with stakeholders, designers, developers, and QA teams<br/>
 📈 I care about predictable delivery, maintainable code, and measurable business value<br/>
 🌱 I am currently exploring cloud-native .NET, MERN Stack, and AI-assisted product development<br/>
-<p>
 <h2>Tech Stack</h2>
+<p style="display:flex;">
+
 <img   width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="net core" />
  <img   width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#"/>  
  <img   width="50px"  style="padding-right:10px"
