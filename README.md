@@ -1,6 +1,5 @@
 <h1>Otta Pilavullathil Sreejith</h1> <br/><br/>
- <h3>Project Manager | Full-Stack .NET Developer</h3><br/>
-
+ <h3>Project Manager | Full-Stack .NET Developer</h3> 
 I bridge product vision, project delivery, and software engineering to turn complex ideas into reliable digital solutions. I manage projects from discovery and planning through delivery, while also building secure, scalable applications across the .NET ecosystem. My approach combines clear communication, practical leadership, and hands-on development—keeping business goals, user needs, and technical quality aligned.
 
 <h1>👨‍💻 About Me</h1>
