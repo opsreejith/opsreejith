@@ -22,16 +22,19 @@ I bridge product vision, project delivery, and software engineering to turn comp
             <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"   alt="oracle"/>  
             <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"/>
             <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="google cloud"/>
-          <p>
+          <h2>💻 GitHub Profile Stats</h2>
+
+<p>
   <img
-    width="55%"
-    src="https://github-readme-stats.vercel.app/api?username=opsreejith&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=opsreejith&show_icons=true&theme=radical"
     alt="GitHub statistics"
+    height="180"
   />
+
   <img
-    width="42%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=opsreejith&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=opsreejith&layout=compact&theme=radical"
     alt="Most used languages"
+    height="180"
   />
 </p>
           
