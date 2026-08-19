@@ -17,12 +17,23 @@ I bridge product vision, project delivery, and software engineering to turn comp
   src="https://cdn.simpleicons.org/openapiinitiative/6BA539"  alt="restful api"/>
             <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5"/> 
             <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" atl="css3" />    
-            <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="java script" />                         
+            <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="java script" />                       
 <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sql" />
             <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"   alt="oracle"/>  
             <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"/>
             <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="google cloud"/>
-          
+          <p>
+  <img
+    width="55%"
+    src="https://github-readme-stats.vercel.app/api?username=opsreejith&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true"
+    alt="GitHub statistics"
+  />
+  <img
+    width="42%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=opsreejith&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    alt="Most used languages"
+  />
+</p>
           
           
           
