@@ -29,9 +29,7 @@ I bridge product vision, project delivery, and software engineering to turn comp
     src="https://github-stats-extended.vercel.app/api?username=opsreejith&show_icons=true&theme=radical"
     alt="GitHub statistics"
     height="180"
-  />
-
-  <img
+  />  <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=opsreejith&layout=compact&theme=radical"
     alt="Most used languages"
     height="180"
