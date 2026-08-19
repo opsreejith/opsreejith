@@ -11,4 +11,4 @@ I bridge product vision, project delivery, and software engineering to turn comp
 🌱 I am currently exploring cloud-native .NET, MERN Stack, and AI-assisted product development<br/>
 
 <h1>Tech Stack</h1>
-<img align="left" width="30px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="net core" />
+<img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="net core" />
