@@ -2,7 +2,7 @@
  <h3>Project Manager | Full-Stack .NET Developer</h3> 
 I bridge product vision, project delivery, and software engineering to turn complex ideas into reliable digital solutions. I manage projects from discovery and planning through delivery, while also building secure, scalable applications across the .NET ecosystem. My approach combines clear communication, practical leadership, and hands-on development—keeping business goals, user needs, and technical quality aligned.
 
-<h1>👨‍💻 About Me</h1>
+<h2>👨‍💻 About Me</h2>
 🚀 I lead software projects from requirements and roadmaps to release and continuous improvement<br/>
 💻 I build full-stack applications using C#, .NET, ASP.NET Core, and modern JavaScript frameworks<br/>
 🧩 I enjoy designing clean architectures, REST APIs, and data-driven applications<br/>
@@ -10,7 +10,7 @@ I bridge product vision, project delivery, and software engineering to turn comp
 📈 I care about predictable delivery, maintainable code, and measurable business value<br/>
 🌱 I am currently exploring cloud-native .NET, MERN Stack, and AI-assisted product development<br/>
 
-<h1>Tech Stack</h1>
+<h2>Tech Stack</h2>
 <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="net core" />
  <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#"/>  
             <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5"/> 
