@@ -11,17 +11,17 @@ I bridge product vision, project delivery, and software engineering to turn comp
 🌱 I am currently exploring cloud-native .NET, MERN Stack, and AI-assisted product development<br/>
 <p>
 <h2>Tech Stack</h2>
-<img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="net core" />
- <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#"/>  
- <img align="left" width="50px"  style="padding-right:10px"
+<img   width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="net core" />
+ <img   width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#"/>  
+ <img   width="50px"  style="padding-right:10px"
   src="https://cdn.simpleicons.org/openapiinitiative/6BA539"  alt="restful api"/>
-            <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5"/> 
-            <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" atl="css3" />    
-            <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="java script" />                
-<img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sql" />
-            <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"   alt="oracle"/>  
-            <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"/>
-            <img align="left" width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="google cloud"/></p>
+            <img   width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5"/> 
+            <img  width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" atl="css3" />    
+            <img  width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="java script" />                
+<img width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sql" />
+            <img width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"   alt="oracle"/>  
+            <img  width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"/>
+            <img width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="google cloud"/></p>
   <h2>💻 GitHub Profile Stats</h2> 
 
 <p>
