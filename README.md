@@ -13,6 +13,7 @@ I bridge product vision, project delivery, and software engineering to turn comp
 <p style="display:flex;gap:10px;">
 
 <img   width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="net core" />
+            <img  width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" alt="ms .net" />          
  <img   width="50px"  style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="c#"/>  
  <img   width="50px"  style="padding-right:10px"
   src="https://cdn.simpleicons.org/openapiinitiative/6BA539"  alt="restful api"/>
